@@ -1,0 +1,6 @@
+@MarketplaceSync.Api_HostAddress = http://localhost:5089
+
+GET {{MarketplaceSync.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desenvolvimento\\marketplace-sync\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\marketplacesync.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\marketplacesync.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\dtos\\marketplace\\marketplaceaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\dtos\\marketplace\\marketplaceaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.service\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|solutionrelative:src\\marketplacesync.service\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BC3DA7-1B2F-4DD9-B249-3ECA01A288AE}|src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj|solutionrelative:src\\marketplacesync.api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.service\\marketplace\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|solutionrelative:src\\marketplacesync.service\\marketplace\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|solutionrelative:src\\marketplacesync.service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF0599-EF0D-4784-B6D0-AF419A9BDF35}|src\\MarketplaceSync.Service\\MarketplaceSync.Service.csproj|solutionrelative:src\\marketplacesync.service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4066F6-11BD-4E50-A6E8-0CB66F49F7E0}|src\\MarketplaceSync.Data\\MarketplaceSync.Data.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4066F6-11BD-4E50-A6E8-0CB66F49F7E0}|src\\MarketplaceSync.Data\\MarketplaceSync.Data.csproj|solutionrelative:src\\marketplacesync.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4066F6-11BD-4E50-A6E8-0CB66F49F7E0}|src\\MarketplaceSync.Data\\MarketplaceSync.Data.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4066F6-11BD-4E50-A6E8-0CB66F49F7E0}|src\\MarketplaceSync.Data\\MarketplaceSync.Data.csproj|solutionrelative:src\\marketplacesync.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4066F6-11BD-4E50-A6E8-0CB66F49F7E0}|src\\MarketplaceSync.Data\\MarketplaceSync.Data.csproj|c:\\desenvolvimento\\marketplace-sync\\backend\\src\\marketplacesync.data\\context\\marketplacesynccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4066F6-11BD-4E50-A6E8-0CB66F49F7E0}|src\\MarketplaceSync.Data\\MarketplaceSync.Data.csproj|solutionrelative:src\\marketplacesync.data\\context\\marketplacesynccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarketplaceSync.Api",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\MarketplaceSync.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T21:05:33.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\appsettings.json",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\appsettings.json",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-27T20:30:33.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\Program.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Program.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:25:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SyncController.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Controllers\\SyncController.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\Controllers\\SyncController.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Controllers\\SyncController.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\Controllers\\SyncController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:24:53.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwHoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:24:16.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:23:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarketplaceAccountDto.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Marketplace\\MarketplaceAccountDto.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\DTOs\\Marketplace\\MarketplaceAccountDto.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Marketplace\\MarketplaceAccountDto.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\DTOs\\Marketplace\\MarketplaceAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:22:56.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Order\\OrderDto.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\DTOs\\Order\\OrderDto.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Order\\OrderDto.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\DTOs\\Order\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:22:30.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\DTOs\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Product\\ProductDto.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\DTOs\\Product\\ProductDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:22:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Api\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Api\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Api\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:21:01.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SyncService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Marketplace\\SyncService.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Service\\Marketplace\\SyncService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Marketplace\\SyncService.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Service\\Marketplace\\SyncService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:19:21.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Service\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Product\\ProductService.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Service\\Product\\ProductService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:18:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Service\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Auth\\AuthService.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Service\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:18:21.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Service\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Service\\Auth\\TokenService.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Service\\Auth\\TokenService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:13:52.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:12:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Data\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Data\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Data\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Data\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:11:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MarketplaceSyncContext.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Data\\Context\\MarketplaceSyncContext.cs",
+              "RelativeDocumentMoniker": "src\\MarketplaceSync.Data\\Context\\MarketplaceSyncContext.cs",
+              "ToolTip": "C:\\Desenvolvimento\\marketplace-sync\\backend\\src\\MarketplaceSync.Data\\Context\\MarketplaceSyncContext.cs",
+              "RelativeToolTip": "src\\MarketplaceSync.Data\\Context\\MarketplaceSyncContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:09:15.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

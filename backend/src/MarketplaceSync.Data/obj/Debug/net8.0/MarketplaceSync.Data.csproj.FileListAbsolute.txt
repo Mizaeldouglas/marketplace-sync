@@ -1,0 +1,17 @@
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\bin\Debug\net8.0\MarketplaceSync.Data.deps.json
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\bin\Debug\net8.0\MarketplaceSync.Data.runtimeconfig.json
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\bin\Debug\net8.0\MarketplaceSync.Data.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\bin\Debug\net8.0\MarketplaceSync.Data.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.csproj.AssemblyReference.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.AssemblyInfoInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.AssemblyInfo.cs
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\refint\MarketplaceSync.Data.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\MarketplaceSync.Data.genruntimeconfig.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\ref\MarketplaceSync.Data.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\bin\Debug\net8.0\MarketplaceSync.Domain.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\bin\Debug\net8.0\MarketplaceSync.Domain.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Data\obj\Debug\net8.0\Marketpl.2532FE23.Up2Date

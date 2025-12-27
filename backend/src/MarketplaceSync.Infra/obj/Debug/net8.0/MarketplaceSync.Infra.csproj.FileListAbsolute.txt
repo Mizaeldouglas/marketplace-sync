@@ -1,0 +1,11 @@
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\bin\Debug\net8.0\MarketplaceSync.Infra.deps.json
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\bin\Debug\net8.0\MarketplaceSync.Infra.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\bin\Debug\net8.0\MarketplaceSync.Infra.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\MarketplaceSync.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\MarketplaceSync.Infra.AssemblyInfoInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\MarketplaceSync.Infra.AssemblyInfo.cs
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\MarketplaceSync.Infra.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\MarketplaceSync.Infra.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\refint\MarketplaceSync.Infra.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\MarketplaceSync.Infra.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Infra\obj\Debug\net8.0\ref\MarketplaceSync.Infra.dll

@@ -1,0 +1,17 @@
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\bin\Debug\net8.0\MarketplaceSync.Service.deps.json
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\bin\Debug\net8.0\MarketplaceSync.Service.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\bin\Debug\net8.0\MarketplaceSync.Service.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.csproj.AssemblyReference.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.AssemblyInfoInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.AssemblyInfo.cs
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\refint\MarketplaceSync.Service.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\ref\MarketplaceSync.Service.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\bin\Debug\net8.0\MarketplaceSync.Domain.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\bin\Debug\net8.0\MarketplaceSync.Domain.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\Marketpl.F8CA4FDF.Up2Date
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\bin\Debug\net8.0\MarketplaceSync.Service.runtimeconfig.json
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Service\obj\Debug\net8.0\MarketplaceSync.Service.genruntimeconfig.cache

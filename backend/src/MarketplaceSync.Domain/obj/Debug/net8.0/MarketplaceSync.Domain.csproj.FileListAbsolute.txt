@@ -1,0 +1,13 @@
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\bin\Debug\net8.0\MarketplaceSync.Domain.deps.json
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\bin\Debug\net8.0\MarketplaceSync.Domain.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\bin\Debug\net8.0\MarketplaceSync.Domain.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\MarketplaceSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\MarketplaceSync.Domain.AssemblyInfoInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\MarketplaceSync.Domain.AssemblyInfo.cs
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\MarketplaceSync.Domain.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\MarketplaceSync.Domain.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\refint\MarketplaceSync.Domain.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\MarketplaceSync.Domain.pdb
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\ref\MarketplaceSync.Domain.dll
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\bin\Debug\net8.0\MarketplaceSync.Domain.runtimeconfig.json
+C:\Desenvolvimento\marketplace-sync\backend\src\MarketplaceSync.Domain\obj\Debug\net8.0\MarketplaceSync.Domain.genruntimeconfig.cache
